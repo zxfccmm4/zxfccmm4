@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
   
 - 🔧 &nbsp; Xcode | Visual Studio code 
-- 🖥 &nbsp; Adobe Xd | Photoshop | Final Cut Pro | Adobe Pr
+- 🖥 &nbsp; Photoshop | Final Cut Pro | Adobe Pr
 
 <br>
 
