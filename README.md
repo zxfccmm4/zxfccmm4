@@ -5,16 +5,11 @@
 
 - 🔭 &nbsp; I’m Steve
 - 🤔 &nbsp; Exploring new technologies and developing software solutions .
-- 🎓 &nbsp; Studying Computer Science, computer programming.
-- 💼 &nbsp; IT Teacher.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
   
 - 🔧 &nbsp; Xcode | Visual Studio code 
-- 🖥 &nbsp; Photoshop | Final Cut Pro | Adobe Pr
+- 🖥 &nbsp; Photoshop | Final Cut Pro 
 
 <br>
 
