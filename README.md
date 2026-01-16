@@ -128,18 +128,6 @@ Your ultimate video companion with smart recommendations and multi-server suppor
 
 ---
 
-
-## 🎯 Current Goals
-
-| Goal | Status | Target |
-| --- | --- | --- |
-| 🚀 Launch iOS Apps | ✅ Complete | 3 Apps on App Store |
-| 📱 Next Generation | 🔜 In Progress | Building v2 apps |
-| 💡 New Technologies | 🔜 Exploring | AI/ML integration |
-| 🌟 Community | 🔜 Growing | Open source contributions |
-
----
-
 ## 🏆 Achievements
 
 - ✅ **3 iOS Apps** published on App Store
