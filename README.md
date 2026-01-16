@@ -115,18 +115,18 @@
 
 ---
 
-## 📈 Stats Overview
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zxfccmm4&theme=darkhub&no-frame=true&no-bg=false&margin-w=10" alt="Trophies"/>
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📈 Stats Overview
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zxfccmm4&theme=dracula&no-frame=true&no-bg=true" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zxfccmm4&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats"/>
 </div>
 
 ---
