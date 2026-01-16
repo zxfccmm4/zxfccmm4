@@ -30,10 +30,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://ghstats.ronv.dev/api?username=zxfccmm4&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0d1117&hide_border=true" alt="Steve's GitHub Stats"/>
+  <img src="https://ghchart.rshah.org/zxfccmm4" alt="Steve's GitHub chart"/>
 </div>
 
 ---
