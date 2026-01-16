@@ -115,29 +115,44 @@
 
 ---
 
-## 🏆 Achievements
+## 📈 Development Focus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zxfccmm4&theme=darkhub&no-frame=true&no-bg=false&margin-w=10" alt="Trophies"/>
+
+```swift
+struct Developer {
+    let name = "Steve Zhou"
+    let role = "iOS Developer"
+    let passions = [
+        "Building innovative iOS apps",
+        "Creating elegant user experiences",
+        "Solving complex problems"
+    ]
+
+    func code() {
+        while true {
+            build()
+            learn()
+            ship()
+        }
+    }
+}
+```
+
 </div>
 
 ---
 
-## 📈 Stats Overview
+## 🎯 Current Goals
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxfccmm4&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats"/>
+
+- 🚀 **Launch**: 3 iOS Apps on App Store ✅
+- 📱 **Expand**: Building next generation apps
+- 💡 **Innovate**: Exploring new technologies
+- 🌟 **Grow**: Connecting with the developer community
+
 </div>
-
----
-
-## 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Exploring new technologies
-2. 🔭 Building awesome projects
-3. 💡 Learning every day
-<!--END_SECTION:activity-->
 
 ---
 
