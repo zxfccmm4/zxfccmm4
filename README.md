@@ -64,16 +64,16 @@ Discover my work and connect on these platforms!
 
 <p align="center">
 <a href="https://twitter.com/st7evechou">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 <a href="https://www.instagram.com/zhou.steveee/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:zxfccmm@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://ssurge.me">
-<img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
+<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/>
 </a>
 </p>
 
