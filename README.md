@@ -24,7 +24,7 @@ Discover my work and connect on these platforms!
 
 | Platform | Link | Status |
 | --- | --- | --- |
-| 🌐 Website | [steveee.xyz](https://ssurge.me) | ✅ Active |
+| 🌐 Website | [ssurge.me](https://ssurge.me) | ✅ Active |
 | 🐦 Twitter | [@st7evechou](https://twitter.com/st7evechou) | ✅ Active |
 | 🐙 GitHub | [@zxfccmm4](https://github.com/zxfccmm4) | ✅ Active |
 
