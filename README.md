@@ -24,7 +24,7 @@ Discover my work and connect on these platforms!
 
 | Platform | Link | Status |
 | --- | --- | --- |
-| 🌐 Website | [steveee.xyz](https://steveee.xyz) | ✅ Active |
+| 🌐 Website | [steveee.xyz](https://ssurge.me) | ✅ Active |
 | 🐦 Twitter | [@st7evechou](https://twitter.com/st7evechou) | ✅ Active |
 | 📸 Instagram | [@zhou.steveee](https://www.instagram.com/zhou.steveee/) | ✅ Active |
 | 📧 Gmail | [zxfccmm@gmail.com](mailto:zxfccmm@gmail.com) | ✅ Active |
@@ -130,24 +130,6 @@ Your ultimate video companion with smart recommendations and multi-server suppor
 
 ---
 
-## 💻 Code Style
-
-```swift
-struct Developer {
-    let name = "Steve Zhou"
-    let role = "iOS Developer"
-
-    func code() {
-        while true {
-            build()
-            learn()
-            ship()
-        }
-    }
-}
-```
-
----
 
 ## 🎯 Current Goals
 
@@ -170,25 +152,6 @@ struct Developer {
 
 ---
 
-## 📈 Development Roadmap
-
-### 2024 Q4
-- [x] Launch SteveFans
-- [x] Launch StevePinyin
-- [x] Launch SteveWatch
-
-### 2025 Q1
-- [ ] AI/ML integration
-- [ ] New app concepts
-- [ ] Open source contributions
-
-### 2025 Q2
-- [ ] watchOS enhancements
-- [ ] Cross-platform expansion
-- [ ] Community building
-
----
-
 ## 🤝🏻 Let's Connect
 
 <p align="center">
@@ -201,7 +164,7 @@ struct Developer {
 <a href="mailto:zxfccmm@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://steveee.xyz">
+<a href="https://ssurge.me">
 <img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
 </a>
 </p>
