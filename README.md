@@ -75,12 +75,6 @@
   </a>
 </p>
 
-### 📱 iOS Apps on the App Store
-
-| 📱 SteveFans | ⌨️ StevePinyin | 📺 SteveWatch |
-| :--- | :--- | :--- |
-| **Track Your Social Media Followers**<br/>[App Store](https://apps.apple.com/cn/app/stevefans/id6738012578)<br/>Monitor followers & following with real-time updates. | **Smart Contacts Manager**<br/>[App Store](https://apps.apple.com/us/app/stevepinyin/id6737565099)<br/>Intelligent Pinyin integration & powerful dialing. | **Next-Generation Video Player**<br/>[App Store](https://apps.apple.com/app/stevewatch/id6478312533)<br/>Smart recommendations & multi-server support. |
-
 ---
 
 ## 🔧 More Repos
