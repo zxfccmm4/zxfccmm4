@@ -6,7 +6,6 @@
 
   **Building AI-powered developer tools · Crafting elegant iOS apps**
 
-  [![Website](https://img.shields.io/badge/-steveee.xyz-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://steveee.xyz)
   [![GitHub followers](https://img.shields.io/github/followers/zxfccmm4?style=flat-square&logo=github&labelColor=333333&color=blue)](https://github.com/zxfccmm4)
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zxfccmm4)](https://github.com/zxfccmm4)
 
